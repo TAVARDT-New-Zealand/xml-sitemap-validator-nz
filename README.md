@@ -1,4 +1,4 @@
-# XML Sitemap Validator | TAVARDT New Zealand
+# XML Sitemap Validator
 
 [![XML Sitemap Validator](https://img.shields.io/badge/TAVARDT-Sitemap%20XML-5b3cf5.svg)](https://tools.tavardt.com/nz/xml-sitemap-validator/)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -49,3 +49,7 @@ For recurring audits and real-time sitemap validation:
 ## New Zealand Digital Architecture Advisory
 
 For enterprise search indexing and compliance with NZ Web Standards and Sitemaps.org Protocol, contact the specialists at **TAVARDT New Zealand**.
+
+***
+
+© 2026 TAVARDT. All rights reserved.
