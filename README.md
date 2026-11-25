@@ -6,8 +6,6 @@
 
 Independent XML sitemap audit suite for New Zealand digital assets, checking XML compliance, URL cleanliness, and search engine directives.
 
-Engineered and maintained by the digital integrity and search systems division at **TAVARDT**.
-
 ***
 
 ## XML Sitemap Validation Capabilities
@@ -38,15 +36,6 @@ python sitemap_validator.py https://example.co.nz/sitemap.xml -json
 
 ***
 
-## Online Diagnostic Platform
-
-For recurring audits and real-time sitemap validation:
-
-* **Official XML Sitemap Validator**
-* **TAVARDT Portal**
-
-***
-
 ## New Zealand Digital Architecture Advisory
 
 For enterprise search indexing and compliance with NZ Web Standards and Sitemaps.org Protocol, contact the specialists at **TAVARDT**.
@@ -62,7 +51,7 @@ For enterprise search indexing and compliance with NZ Web Standards and Sitemaps
 ***
 
 ### License
-Released under the MIT License. See [LICENSE](LICENSE) for full details.
+Released under the MIT License.
 
 ***
 
